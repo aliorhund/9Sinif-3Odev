@@ -49,8 +49,8 @@ Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun
 | 39    | 32/60    |   0.62   |
 | 45    | 38/60    |   0.65   |
 | 48    | 41/60    |   0.67   |
-| 53    | 46/60    |   0.675  |
-| 54    | 47/60     |   0.68    |
+| 53    | 46/60    |   0.67  |
+| 54    | 47/60     |   0.67    |
 
 
 a) Denkleminizi **buraya yazınız**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? (Yardım: bir tanesi ivme ile ilgili, bir tanesi ilk hız ile, diğeri konum ile ilgili).  Sizce niçin a'nın değeri negatif? 
