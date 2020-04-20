@@ -34,6 +34,24 @@ Bulduğum ikinci dereceden denklem (x= konum, t=zaman, *x= at^2+b*t + c*) şu ş
 
 
 Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (Aşağıda yeni bir tablo oluşturun ve yukarıdaki tabloya 3-4 tane kendi ölçümünü ekleyiniz.) Kullandığınız Google Sheet için [buraya](link ver) link verin (Google Sheet herkese açık erişimli olsun.) 
+| Frame | Zaman(s) | Konum (m)|
+|-------|----------| ---------|
+| 7 (Başlangıç)| 0 |   0      |
+| 13    | 6/60     |   0.175  |
+| 14    | 7/60     |   0.2    |
+| 18    | 11/60    |   0.295  |
+| 20    | 13/60    |   0.34   |
+| 23    | 16/60    |   0.4    |
+| 25    | 18/60    |   0.44   |
+| 28    | 21/60    |   0.49   |
+| 33    | 26/60    |   0.55   |
+| 38    | 31/60    |   0.61   | 
+| 39    | 32/60    |   0.62   |
+| 45    | 38/60    |   0.65   |
+| 48    | 41/60    |   0.67   |
+| 53    | 46/60    |   0.675  |
+| 54    | 47/60     |   0.68    |
+
 
 a) Denkleminizi **buraya yazınız**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? (Yardım: bir tanesi ivme ile ilgili, bir tanesi ilk hız ile, diğeri konum ile ilgili).  Sizce niçin a'nın değeri negatif? 
 
