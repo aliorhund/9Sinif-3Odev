@@ -33,7 +33,7 @@ Bulduğum ikinci dereceden denklem (x= konum, t=zaman, *x= at^2+b*t + c*) şu ş
 *x = -1.22*t^2 + 1.81*t + 3.92E-03* 
 
 
-Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (Aşağıda yeni bir tablo oluşturun ve yukarıdaki tabloya 3-4 tane kendi ölçümünü ekleyiniz.) Kullandığınız Google Sheet için [buraya](link ver) link verin (Google Sheet herkese açık erişimli olsun.) 
+Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (Aşağıda yeni bir tablo oluşturun ve yukarıdaki tabloya 3-4 tane kendi ölçümünü ekleyiniz.) Kullandığınız Google Sheet için [buraya](https://docs.google.com/spreadsheets/d/1VWh3hRCRN0xfUj80sX2Ohfwp7gzc8a-TjmxBXcF8tPw/edit?usp=sharing) link verin (Google Sheet herkese açık erişimli olsun.) 
 | Frame | Zaman(s) | Konum (m)|
 |-------|----------| ---------|
 | 7 (Başlangıç)| 0 |   0      |
@@ -41,23 +41,24 @@ Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun
 | 14    | 7/60     |   0.2    |
 | 18    | 11/60    |   0.295  |
 | 20    | 13/60    |   0.34   |
-| 23    | 16/60    |   0.4    |
+| 23    | 16/60    |   (0.395)  |
 | 25    | 18/60    |   0.44   |
 | 28    | 21/60    |   0.49   |
-| 33    | 26/60    |   0.55   |
+| 33    | 26/60    |   (0.56)   |
 | 38    | 31/60    |   0.61   | 
 | 39    | 32/60    |   0.62   |
-| 45    | 38/60    |   0.65   |
+| 45    | 38/60    |   (0.66)   |
 | 48    | 41/60    |   0.67   |
-| 53    | 46/60    |   0.67  |
-| 54    | 47/60     |   0.67    |
+| 53    | 46/60    |   0.675  |
 
 
-a) Denkleminizi **buraya yazınız**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? (Yardım: bir tanesi ivme ile ilgili, bir tanesi ilk hız ile, diğeri konum ile ilgili).  Sizce niçin a'nın değeri negatif? 
+a) Denkleminizi **1.62-03+1.84x+ -1.29x^2**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? (Yardım: bir tanesi ivme ile ilgili, bir tanesi ilk hız ile, diğeri konum ile ilgili).  Sizce niçin a'nın değeri negatif?
+**Cevap:** *Çünkü cismin ivmesi eksi yüklü.*
 
 b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? 
+**Cevap:** *Evet.*
 
-c) Video'daki cismin atılış hızı farklı olsaydı (diğer herşey aynı, kütle, yüzey, vb. Hava sürtünmesini ihmal edin), sizce formülde hangi terimler değişecekti? (a, b veya c) 
+c) Video'daki cismin atılış hızı farklı olsaydı (diğer herşey aynı, kütle, yüzey, vb. Hava sürtünmesini ihmal edin), sizce formülde hangi terimler değişecekti? (a, b veya c) *Hepsi değişirdi.*
 
 # Bölüm 2 (İvmeli Hareketin Ortalama Hız-Zaman Grafiği)
 Bu sefer aynı cismin zaman-hız (ortalama hız) grafiğini çizeceksiniz. Bunun için *1.Bölümde* aldığımız sonuçları kullanacağız. Ortalama hızı bulmak için derste öğrendiğimiz ortalama hız formülünü (Delta x/ Delta t) kullanacağız. Google Sheet kullanarak hız-zaman grafiği nasıl çizildiğini anlamak için  [bu videoya](https://www.youtube.com/watch?v=67IsHRmcmfE&t) bakınız. Ortalama hız-zaman grafiğini çizilirken, ortalama hıza karşılık gelen zamanı nasıl belirleyeceksin? Bir andaki  ortalama hızı hesaplarken o noktadan önceki ve o noktadan sonraki (t,x) noktalarını kullanacaksın. Bu yüzden konum grafiğimde 11 veri noktam varken, hız-zaman grafiğinde veri noktam 9'a düştü. (İlk baştaki ve son baştaki noktalar için ortalama hızı hesaplayamam çünkü başlangıç noktasından önce ve bitiş noktasından sonraki (t,x) bilgilerine sahip değilim.)
@@ -66,18 +67,18 @@ Ben kendi verilerim için bir google sheet hazırladım. [Buraya](https://docs.g
 *   Customize ------> Trendline -------> Linear, Label=Use Equation
 kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafiği 1.dereceden (linear-doğrusal) denklem. 
 
-1) Kendi aldığınız verileri kullanarak **ortalama hız-zaman** grafiğini Google çiziniz. [Buraya](link ver) link veriniz.
+1) Kendi aldığınız verileri kullanarak **ortalama hız-zaman** grafiğini Google çiziniz. [Buraya](https://docs.google.com/spreadsheets/d/1rkzhMiyEwDv50hYCTZYCeoSqmd43_QfSnlwtHf2Rmg0/edit?usp=sharing) link veriniz.
 
-2) Aynı Google Sheet'i kullanarak ivme verilerini Google Sheet'inize girin. (Bu sefer 7 tane ivme veriniz olacak.) İvme-zaman grafiğini çiziniz.
-
+2) Aynı Google Sheet'i kullanarak ivme verilerini Google Sheet'inize girin. (Bu sefer 7 tane ivme veriniz olacak.) İvme-zaman grafiğini çiziniz. [İvme Zaman Grafiğim](https://docs.google.com/spreadsheets/d/1EcV2NAGnB_ApTIa-AFFeL3yQrOZcmtI-EmAim8tsNqk/edit?usp=sharing) *İvme zaman grafiğimin çok iyi olmadığının farkındayım fakat çok fazla uğraştım elimden bunu yapabilmek geldi. :(*
 3) İvme'yi ne buldunuz? Bu ivme değerini kullanarak 1kg'lık cisim ile yüzey arasındaki kinetik sürtünme katsayısını bulunuz. 
 
 # Bölüm 3 (Hala Beni Öldürmeyi Düşünmüyorsan)
-1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir? Konumdaki ölçüm hatam sizce kaç cm'dir? 
+1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir? Konumdaki ölçüm hatam sizce kaç cm'dir? *Kendim bulabildiğim hatalarınızı kendi tablomda parantez işareti koyarak düzelttim.*
 
 2) Acaba hiç grafik çizmeden sürtünme katsayısını bulabilir miydim?  (Cevap: Evet). 
-Yardım:
+Yardım: *Uygulanan kuvvet gerekir.*
 * Düzgün ivmelenen bir cisim için alınan yol formülü x = (ilk hız+ son hız)/2*t, burdan cismin ilk hızını bulunuz. 
 * Daha sonra iş-kinetik enerji teorimini kullanarak sürtünme kuvvetini bulun. Sürtünme kuvvetinden, kinetik sürtünme katsayısını bulunuz.
 
-3) Bu video'dan statik sürtünme katsayısını bulabilir miydim? 
+
+3) Bu video'dan statik sürtünme katsayısını bulabilir miydim? *Hayır.*
